@@ -1,0 +1,59 @@
+### 🧠 Agente 2: O Mentor de Estudos (Study Planner)
+
+**Descrição:** Após o handoff do Agente 1, o Agente 2 assume o papel de um mentor técnico. Ele recebe as variáveis do usuário (carreira escolhida, horas disponíveis e background) e gera um guia de estudos anual prático e orientado a projetos.
+
+#### 🎯 Exemplo de Saída Gerada (Roadmap de Machine Learning)
+
+Abaixo está o plano gerado para o perfil avaliado no Agente 1 (Engenharia de Machine Learning, 14h/semana, transição de carreira):
+
+**🧩 VISÃO DO DIA A DIA**
+* Coletar, limpar e preparar dados para modelos.
+* Desenvolver e treinar algoritmos de aprendizado de máquina.
+* Avaliar métricas de performance e ajustar hiperparâmetros.
+* Integrar modelos em aplicações e pipelines de produção.
+* Colaborar com cientistas de dados e engenheiros de software.
+
+**🧠 MAPA DE SKILLS**
+* **Core Skills (essenciais):** Python avançado, Estatística aplicada, ML supervisionado/não supervisionado, Engenharia de dados (ETL).
+* **Nice-to-have:** Deep Learning (TensorFlow/PyTorch), MLOps (CI/CD, monitoramento).
+* **Ferramentas:** Scikit-learn, Pandas/NumPy, TensorFlow/PyTorch, SQL, Docker e Kubernetes.
+
+**📅 ROADMAP DE 365 DIAS (Adaptado para 14h/semana)**
+
+* **TRIMESTRE 1 (Dias 1-90) - Fundamentos:**
+    * Estatística aplicada, álgebra linear e probabilidade.
+    * Manipulação de dados com Pandas e SQL.
+    * Algoritmos clássicos de ML (regressão, árvores, KNN).
+    * *Projeto Extra:* Kaggle "Titanic Survival Prediction".
+
+* **TRIMESTRE 2 (Dias 91-180) - Prática:**
+    * Técnicas de validação cruzada e tuning de hiperparâmetros.
+    * Introdução a redes neurais com PyTorch/TensorFlow.
+    * *Projeto Extra:* Classificação de dígitos manuscritos (MNIST) com CNN simples.
+
+* **TRIMESTRE 3 (Dias 181-270) - Portfólio e Deploy:**
+    * Projeto de portfólio com dados reais (previsão de churn).
+    * Deploy com Docker e APIs; Introdução a MLOps.
+    * *Projeto Extra:* Criar API REST para servir modelo e monitorar métricas.
+
+* **TRIMESTRE 4 (Dias 271-365) - Especialização:**
+    * Deep Learning avançado e NLP.
+    * Sistemas de recomendação e integração CI/CD.
+    * *Projeto Extra:* Classificação de sentimentos usando Transformers (BERT).
+
+**🚀 PROJETO DE PORTFÓLIO PRINCIPAL**
+* **Projeto:** Previsão de Churn de Clientes.
+* **Objetivo:** Construir modelo para identificar clientes propensos a cancelar serviços.
+* **Entregáveis:** Pipeline de dados, modelo treinado, dashboard de métricas.
+* **Critérios de Aceite:** Acurácia > 75%, código no GitHub, deploy em API/Notebook.
+
+**💬 ROTEIRO DE ENTREVISTAS (Preparação)**
+1.  *Projeto de ML:* Estruture a resposta em Problema → Solução → Resultados → Aprendizados.
+2.  *Overfitting vs Underfitting:* Defina, dê exemplos e cite mitigações (regularização, dados).
+3.  *Métricas de Avaliação:* Cite accuracy, precision, recall, F1 e quando usá-las.
+4.  *Validação Cruzada:* Explique o conceito para evitar overfitting.
+5.  *Deploy em Produção:* Cite pipeline, API e monitoramento contínuo.
+
+**🎓 TRILHA DIO RECOMENDADA**
+* **Trilha:** Bootcamp Santander 2025 - Ciência de Dados com Python.
+* **Motivo:** Cobre fundamentos exigidos no T1 do roadmap e conecta diretamente com a transição para ML.
