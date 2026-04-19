@@ -1,6 +1,6 @@
 # 🚀 AI Career Mentor: Orientação e Planejamento de Carreira com IA
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-White?style=for-the-badge&logo=githubcopilot&logoColor=black)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![AI Powered](https://img.shields.io/badge/AI_Powered-0078D4?style=for-the-badge&logo=openai&logoColor=white)
 
